@@ -1,0 +1,21 @@
+.footer{
+    color:#aa2a19;
+    padding:1.5rem;
+    box-shadow: rgba(95, 91, 91, 0.15) 0 1px 12px;
+    text-align:center;
+}
+
+.footer p{
+    margin:1rem 0;
+}
+
+.footer p a{
+    text-decoration:none;
+    color:#aa2a19;
+    transition:color 0.5s ease-in;
+}
+
+.footer p a:hover{
+    color:#d84936;
+    transition:color 0.2s ease-in;
+}
