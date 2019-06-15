@@ -12,7 +12,7 @@
 /* Jumbotron */
 .jumbotron{
     min-height:20rem;
-    background:url('/images/jumbo_bg.jpg');
+    background:url('./images/jumbo_bg.jpg');
     background-color:#aa2a19;
     background-blend-mode:multiply;
     background-size:cover;
